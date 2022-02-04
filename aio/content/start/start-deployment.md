@@ -52,7 +52,7 @@ A best practice is to run your project locally before you deploy it. To run your
     ```
 
     While serving your application, you can edit your code and see the changes update automatically in the browser.
-    To stop the `ng serve` command, press `Ctrl`+`c`.
+    To stop the `ng serve` command, press `Ctrl`+`C` on Windows (`Command &#x2318;`+`C` on Mac).
 
 {@a building}
 ## Building and hosting your application
